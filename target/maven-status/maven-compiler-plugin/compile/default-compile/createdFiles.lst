@@ -1,0 +1,5 @@
+com\college\attendancesystem\resources\JakartaEE11Resource.class
+com\college\attendancesystem\JakartaRestConfiguration.class
+com\college\dao\AttendanceDAO.class
+com\college\servlet\AttendanceServlet.class
+com\college\util\DBConnection.class
